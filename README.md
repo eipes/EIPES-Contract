@@ -53,3 +53,12 @@ This repository:
 - Provides limited sample data for research and benchmarking purposes  
   仅提供少量 Sample 数据用于研究与 Benchmark
 
+# Contact | 联系我
+
+For technical discussions, bug reports, or collaboration, please use the following channels:
+
+如有技术交流、问题反馈或合作意向，可以通过以下方式联系：
+
+*   **Email**: relove100@gmail.com
+
+
