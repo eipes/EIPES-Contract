@@ -30,11 +30,74 @@ This repository includes:
 
 - Sample contract documents / 合同样例数据
 - OCR Ground Truth / OCR 标注
-- Annotations / 标注数据
-- Benchmark tasks / Benchmark 任务
-- Parsing tools / 文档解析工具
-- Data processing scripts / 数据处理脚本
 
+---
+
+# Quick Tour & Data Samples | 快速了解与数据样例
+
+### Repository Structure / 目录结构
+
+```text
+EIPES-ContractBench/
+├── README.md
+├── samples/
+│   └── contract_001.pdf          # Original contract PDF / 原始合同文件
+└── annotations/
+    └── contract_001.json         # Annotation / 标注 JSON
+```
+
+### Annotation Schema Example / 标注格式示例
+
+
+```json
+{
+  "doc_id": "contract_001",
+  "meta": {
+    "doc_type": "Purchase Contract / 采购合同",
+    "total_pages": 1
+  },
+  "pages": [
+    {
+      "page_index": 0,
+      "size": { "width": 1240, "height": 1754 },
+      
+      "comment_1": "1. OCR & Layout Analysis Layer / 文本块与版面分析层",
+      "layout_elements": [
+        {
+          "id": "block_0",
+          "type": "title",
+          "bbox": [100, 150, 1140, 220],
+          "text": "物资采购合同"
+        },
+        {
+          "id": "block_1",
+          "type": "table",
+          "bbox": [100, 500, 1140, 900],
+          "cells": [
+            { "row": 0, "col": 0, "text": "序号", "bbox": [110, 510, 200, 550] }
+          ]
+        }
+      ],
+      
+      "comment_2": "2. Key Information Extraction (KIE) / 关键实体抽取层",
+      "kie_entities": [
+        { "label": "party_a", "text": "某某科技有限公司", "bbox": [200, 300, 500, 340] },
+        { "label": "party_b", "text": "某某制造有限公司", "bbox": [200, 350, 500, 390] },
+        { "label": "contract_amount", "text": "￥1,000,000.00", "bbox": [800, 1200, 950, 1240] }
+      ]
+    }
+  ],
+  
+  "comment_3": "3. High-level Semantic Clause Layer / 高层级语义条款层",
+  "clauses": [
+    {
+      "type": "dispute_resolution",
+      "text": "本合同在履行过程中发生的争议，由双方当事人协商解决；协商不成的，提交上海仲裁委员会仲裁。"
+    }
+  ]
+}
+
+```
 ---
 
 # Data Sources | 数据来源
@@ -47,11 +110,12 @@ This repository:
 
 本仓库：
 
-- Does NOT claim ownership of original documents  
-  不声明原始合同文件所有权
+* Does NOT claim ownership of original documents
+不声明原始合同文件所有权
+* Provides limited sample data for research and benchmarking purposes
+仅提供少量 Sample 数据用于研究与 Benchmark
 
-- Provides limited sample data for research and benchmarking purposes  
-  仅提供少量 Sample 数据用于研究与 Benchmark
+---
 
 # Contact | 联系我
 
@@ -59,6 +123,4 @@ For technical discussions, bug reports, or collaboration, please use the followi
 
 如有技术交流、问题反馈或合作意向，可以通过以下方式联系：
 
-*   **Email**: relove100@gmail.com
-
-
+* **Email**: relove100@gmail.com
