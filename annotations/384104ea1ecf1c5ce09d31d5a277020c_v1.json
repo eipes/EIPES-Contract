@@ -1,0 +1,1231 @@
+{
+  "file": "384104ea1ecf1c5ce09d31d5a277020c_textin.json",
+  "total_pages": 5,
+  "stats": {
+    "title": 8,
+    "text": 43,
+    "table_title": 1,
+    "table": 2,
+    "stamp": 2,
+    "header": 1,
+    "footer": 1
+  },
+  "contents": [
+    {
+      "page": 1,
+      "position": [
+        282,
+        212,
+        844,
+        200,
+        844,
+        233,
+        282,
+        245
+      ],
+      "type": "title",
+      "level": 0,
+      "content": "宁夏回族自治区妇幼保健院（儿童医院）"
+    },
+    {
+      "page": 1,
+      "position": [
+        469,
+        267,
+        674,
+        263,
+        673,
+        288,
+        469,
+        292
+      ],
+      "type": "title",
+      "level": 0,
+      "content": "医疗设备采购合同"
+    },
+    {
+      "page": 1,
+      "position": [
+        585,
+        320,
+        899,
+        313,
+        899,
+        338,
+        585,
+        345
+      ],
+      "type": "text",
+      "content": "招标编号：ZTSJ-NZC/A19077"
+    },
+    {
+      "page": 1,
+      "position": [
+        205,
+        329,
+        508,
+        321,
+        507,
+        345,
+        205,
+        353
+      ],
+      "type": "text",
+      "content": "计划编号：2019NCZ000483W"
+    },
+    {
+      "page": 1,
+      "position": [
+        207,
+        383,
+        729,
+        370,
+        729,
+        396,
+        207,
+        409
+      ],
+      "type": "text",
+      "content": "甲方：宁夏回族自治区妇幼保健院（儿童医院）"
+    },
+    {
+      "page": 1,
+      "position": [
+        206,
+        438,
+        519,
+        430,
+        519,
+        456,
+        206,
+        464
+      ],
+      "type": "text",
+      "content": "地址：金凤区湖畔路127号"
+    },
+    {
+      "page": 1,
+      "position": [
+        210,
+        495,
+        461,
+        487,
+        461,
+        511,
+        210,
+        518
+      ],
+      "type": "text",
+      "content": "电话：0951-7835887"
+    },
+    {
+      "page": 1,
+      "position": [
+        211,
+        548,
+        596,
+        538,
+        596,
+        564,
+        211,
+        575
+      ],
+      "type": "text",
+      "content": "乙方：江苏悦胜科技投资有限公司"
+    },
+    {
+      "page": 1,
+      "position": [
+        210,
+        604,
+        797,
+        588,
+        796,
+        613,
+        210,
+        629
+      ],
+      "type": "text",
+      "content": "地址：江苏省南京市玄武区珠江路88号1幢2713室"
+    },
+    {
+      "page": 1,
+      "position": [
+        215,
+        660,
+        478,
+        652,
+        478,
+        675,
+        214,
+        683
+      ],
+      "type": "text",
+      "content": "电话：025-58813698"
+    },
+    {
+      "page": 1,
+      "position": [
+        211,
+        723,
+        951,
+        699,
+        955,
+        826,
+        215,
+        850
+      ],
+      "type": "text",
+      "content": "甲方通过政府招标采购，经专家评委公开、公平、公正评审，最终确认乙方为中标单位。为进一步明确双方的责任，确保合同的顺利履行，甲乙双方商定同意按如下条款签订本合同："
+    },
+    {
+      "page": 1,
+      "position": [
+        218,
+        881,
+        416,
+        874,
+        416,
+        898,
+        218,
+        905
+      ],
+      "type": "table_title",
+      "content": "一、产品及项目清单"
+    },
+    {
+      "type": "table",
+      "page": 1,
+      "position": [
+        213,
+        910,
+        961,
+        887,
+        968,
+        1121,
+        219,
+        1142
+      ],
+      "structured": {
+        "headers": [
+          {
+            "text": "产品名称"
+          },
+          {
+            "text": "品牌、型号、规格"
+          },
+          {
+            "text": "数量"
+          },
+          {
+            "text": "单价（万元）"
+          },
+          {
+            "text": "金额（万元）"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "text": "彩色多普勒超声诊断仪"
+            },
+            {
+              "text": "通用电气Voluson E10"
+            },
+            {
+              "text": "1 台"
+            },
+            {
+              "text": "348.60"
+            },
+            {
+              "text": "348.60"
+            }
+          ],
+          [
+            {
+              "text": "金额合计：叁佰肆拾捌万陆仟元整（¥348 . 60 万元）",
+              "col_span": 5
+            }
+          ]
+        ]
+      },
+      "html": "<table border=\"1\" ><tr>\n<td>产品名称</td>\n<td>品牌、型号、规格</td>\n<td>数量</td>\n<td>单价（万元）</td>\n<td>金额（万元）</td>\n</tr><tr>\n<td>彩色多普勒超声诊断仪</td>\n<td>通用电气Voluson E10</td>\n<td>1 台</td>\n<td>348.60</td>\n<td>348.60</td>\n</tr><tr>\n<td colspan=\"5\">金额合计：叁佰肆拾捌万陆仟元整（¥348 . 60 万元）</td>\n</tr></table>",
+      "caption_page": 1,
+      "caption_index": 11
+    },
+    {
+      "page": 1,
+      "position": [
+        228,
+        1164,
+        488,
+        1155,
+        488,
+        1176,
+        228,
+        1185
+      ],
+      "type": "title",
+      "level": 1,
+      "content": "二、交货时间、地点及费用"
+    },
+    {
+      "page": 1,
+      "position": [
+        229,
+        1214,
+        963,
+        1190,
+        963,
+        1211,
+        229,
+        1236
+      ],
+      "type": "text",
+      "content": "1、乙方自合同生效后在收到甲方供货通知书之日起30天内按照规定数量交货；"
+    },
+    {
+      "page": 1,
+      "position": [
+        229,
+        1265,
+        614,
+        1252,
+        614,
+        1273,
+        229,
+        1287
+      ],
+      "type": "text",
+      "content": "2、交货地点为甲方指定的安装调试场地；"
+    },
+    {
+      "page": 1,
+      "position": [
+        230,
+        1316,
+        956,
+        1291,
+        958,
+        1363,
+        232,
+        1389
+      ],
+      "type": "text",
+      "content": "3、乙方的产品金额合计包括产品的价格、包装费、运输费、验收费、培训费、技术服务费、伴随服务等全部费用。"
+    },
+    {
+      "page": 2,
+      "position": [
+        202,
+        227,
+        420,
+        222,
+        420,
+        244,
+        201,
+        249
+      ],
+      "type": "title",
+      "level": 1,
+      "content": "三、产品及安装的验收"
+    },
+    {
+      "page": 2,
+      "position": [
+        203,
+        278,
+        904,
+        263,
+        903,
+        284,
+        203,
+        299
+      ],
+      "type": "text",
+      "content": "1、由甲方负责组织产品验收。验收小组由甲方代表组成，乙方派代表参加。"
+    },
+    {
+      "page": 2,
+      "position": [
+        202,
+        329,
+        942,
+        312,
+        943,
+        385,
+        204,
+        401
+      ],
+      "type": "text",
+      "content": "2、乙方完成产品交付、安装、自验、培训、试用行正常后，甲方进行产品的验收工作，出具并签署验收报告。"
+    },
+    {
+      "page": 2,
+      "position": [
+        204,
+        432,
+        943,
+        414,
+        944,
+        488,
+        206,
+        506
+      ],
+      "type": "text",
+      "content": "3、如属于国家强制检定的设备，验收前需由乙方完成检测，之后出具检定证书交于甲方。"
+    },
+    {
+      "page": 2,
+      "position": [
+        206,
+        534,
+        946,
+        515,
+        949,
+        638,
+        210,
+        657
+      ],
+      "type": "text",
+      "content": "4、乙方提供的产品必须是满足参数配置的全新（包括零部件）产品。国产产品必须符合国家有关质量标准；进口产品必须符合产品的原厂标准及有关国际标准，进口设备需提供报关单复印件并加盖公章。"
+    },
+    {
+      "page": 2,
+      "position": [
+        212,
+        687,
+        347,
+        684,
+        346,
+        705,
+        211,
+        708
+      ],
+      "type": "title",
+      "level": 1,
+      "content": "四、付款方式"
+    },
+    {
+      "page": 2,
+      "position": [
+        212,
+        738,
+        953,
+        719,
+        954,
+        791,
+        214,
+        810
+      ],
+      "type": "text",
+      "content": "1、付款条件：货到安装验收合格，提供全额发票并试用行 30 天后支付全款的90%；一年后付清全款。"
+    },
+    {
+      "page": 2,
+      "position": [
+        215,
+        840,
+        695,
+        826,
+        694,
+        847,
+        215,
+        861
+      ],
+      "type": "text",
+      "content": "2、本合同以人民币进行结算，价格为348.60万元。"
+    },
+    {
+      "page": 2,
+      "position": [
+        606,
+        880,
+        841,
+        872,
+        841,
+        894,
+        606,
+        901
+      ],
+      "type": "text",
+      "content": "账号 10105901040008727"
+    },
+    {
+      "page": 2,
+      "position": [
+        216,
+        892,
+        531,
+        883,
+        530,
+        904,
+        216,
+        912
+      ],
+      "type": "text",
+      "content": "3、银行账户：农行南京鼓楼支行"
+    },
+    {
+      "page": 2,
+      "position": [
+        220,
+        943,
+        351,
+        939,
+        351,
+        959,
+        219,
+        963
+      ],
+      "type": "title",
+      "level": 1,
+      "content": "五、售后服务"
+    },
+    {
+      "page": 2,
+      "position": [
+        262,
+        991,
+        774,
+        977,
+        774,
+        999,
+        262,
+        1013
+      ],
+      "type": "text",
+      "content": "1、甲方采购的物品如有质量问题，乙方需无条件退换。"
+    },
+    {
+      "page": 2,
+      "position": [
+        219,
+        1043,
+        958,
+        1021,
+        963,
+        1197,
+        225,
+        1219
+      ],
+      "type": "text",
+      "content": "2、乙方对所提供的全套产品须提供18个月的免费质保期，质保期内因非甲方的人为原因而出现质量问题，由乙方负责。乙方负责包修、包换或者包退，并承担修理、调换或退货的实际费用。乙方不能修理或不能调换，按不能交货处理。"
+    },
+    {
+      "page": 2,
+      "position": [
+        279,
+        1246,
+        749,
+        1232,
+        749,
+        1254,
+        279,
+        1268
+      ],
+      "type": "text",
+      "content": "3、乙方负责设备的使用、保养、维护的培训工作。"
+    },
+    {
+      "page": 2,
+      "position": [
+        280,
+        1297,
+        746,
+        1283,
+        746,
+        1304,
+        280,
+        1317
+      ],
+      "type": "text",
+      "content": "4、随机附带UPS延时电源一台；B超工作站一套。"
+    },
+    {
+      "page": 2,
+      "position": [
+        282,
+        1347,
+        688,
+        1335,
+        688,
+        1356,
+        282,
+        1368
+      ],
+      "type": "text",
+      "content": "5、本合同与该项目招、投标文件不可分割。"
+    },
+    {
+      "page": 2,
+      "position": [
+        230,
+        1400,
+        365,
+        1397,
+        364,
+        1417,
+        230,
+        1420
+      ],
+      "type": "title",
+      "level": 1,
+      "content": "六、违约责任"
+    },
+    {
+      "page": 3,
+      "position": [
+        200,
+        228,
+        939,
+        203,
+        942,
+        275,
+        202,
+        301
+      ],
+      "type": "text",
+      "content": "1、乙方所交的产品品种、型号、规格、质量不符规定标准，甲方有权拒绝收货。"
+    },
+    {
+      "page": 3,
+      "position": [
+        203,
+        331,
+        941,
+        315,
+        943,
+        387,
+        204,
+        403
+      ],
+      "type": "text",
+      "content": "2．乙方未能按本合同约定日期供货的，逾期40个工作日，甲方有权解除合同。乙方按本合同总价款1％的标准向甲方支付违约金。"
+    },
+    {
+      "page": 3,
+      "position": [
+        204,
+        432,
+        942,
+        410,
+        945,
+        483,
+        207,
+        505
+      ],
+      "type": "text",
+      "content": "3．质保期内，因乙方原因或非因甲方原因，产品及零配件出现问题的，乙方负责免费更换。"
+    },
+    {
+      "page": 3,
+      "position": [
+        259,
+        533,
+        394,
+        530,
+        394,
+        551,
+        259,
+        554
+      ],
+      "type": "title",
+      "level": 1,
+      "content": "七、其他条款"
+    },
+    {
+      "page": 3,
+      "position": [
+        261,
+        585,
+        687,
+        575,
+        686,
+        596,
+        260,
+        606
+      ],
+      "type": "text",
+      "content": "1、本合同未尽事宜，由甲、乙双方协商解决。"
+    },
+    {
+      "page": 3,
+      "position": [
+        209,
+        636,
+        947,
+        618,
+        949,
+        690,
+        211,
+        708
+      ],
+      "type": "text",
+      "content": "2、合同在履行过程中如有争议，双方协商解决，协商未果双方均可向甲方所在地人民法院诉讼解决。"
+    },
+    {
+      "page": 3,
+      "position": [
+        262,
+        738,
+        670,
+        727,
+        670,
+        749,
+        262,
+        759
+      ],
+      "type": "text",
+      "content": "3、本合同一式四份，具有同等的法律效力。"
+    },
+    {
+      "page": 3,
+      "position": [
+        616,
+        781,
+        672,
+        781,
+        672,
+        801,
+        616,
+        801
+      ],
+      "type": "text",
+      "content": "乙方："
+    },
+    {
+      "page": 3,
+      "position": [
+        215,
+        791,
+        271,
+        791,
+        271,
+        811,
+        215,
+        811
+      ],
+      "type": "text",
+      "content": "甲方："
+    },
+    {
+      "page": 3,
+      "position": [
+        616,
+        830,
+        947,
+        822,
+        946,
+        845,
+        616,
+        852
+      ],
+      "type": "text",
+      "content": "江苏悦胜科技投资有限公司（盖章）"
+    },
+    {
+      "page": 3,
+      "position": [
+        216,
+        838,
+        506,
+        831,
+        507,
+        860,
+        217,
+        868
+      ],
+      "type": "text",
+      "content": "宁夏自治区妇幼保健院（盖章）"
+    },
+    {
+      "type": "stamp",
+      "page": 3,
+      "position": [
+        286,
+        781,
+        500,
+        779,
+        502,
+        987,
+        289,
+        989
+      ],
+      "stamp": {
+        "type": "公章",
+        "shape": "圆章",
+        "color": "红色",
+        "content": "宁夏回族自治区    妇幼保健院"
+      },
+      "text": "宁夏回族自治区    妇幼保健院"
+    },
+    {
+      "type": "stamp",
+      "page": 3,
+      "position": [
+        710,
+        788,
+        899,
+        786,
+        901,
+        984,
+        711,
+        986
+      ],
+      "stamp": {
+        "type": "其他",
+        "shape": "圆章",
+        "color": "红色",
+        "content": "二"
+      },
+      "text": "二"
+    },
+    {
+      "page": 3,
+      "position": [
+        619,
+        911,
+        873,
+        911,
+        873,
+        978,
+        620,
+        978
+      ],
+      "type": "text",
+      "content": "法定代表人签字：袁倩"
+    },
+    {
+      "page": 3,
+      "position": [
+        215,
+        917,
+        469,
+        912,
+        473,
+        977,
+        219,
+        982
+      ],
+      "type": "text",
+      "content": "法定代表人签保等"
+    },
+    {
+      "page": 3,
+      "position": [
+        481,
+        1031,
+        731,
+        1028,
+        731,
+        1078,
+        482,
+        1080
+      ],
+      "type": "text",
+      "content": "이판 经办人签字："
+    },
+    {
+      "page": 3,
+      "position": [
+        220,
+        1038,
+        430,
+        1034,
+        432,
+        1087,
+        219,
+        1091
+      ],
+      "type": "text",
+      "content": "经办人签字： 相洁"
+    },
+    {
+      "page": 3,
+      "position": [
+        731,
+        1081,
+        840,
+        1081,
+        840,
+        1103,
+        731,
+        1103
+      ],
+      "type": "text",
+      "content": "年5月20日"
+    },
+    {
+      "page": 3,
+      "position": [
+        626,
+        1086,
+        680,
+        1086,
+        680,
+        1105,
+        626,
+        1105
+      ],
+      "type": "text",
+      "content": "日期："
+    },
+    {
+      "page": 3,
+      "position": [
+        235,
+        1091,
+        447,
+        1091,
+        447,
+        1126,
+        235,
+        1126
+      ],
+      "type": "text",
+      "content": "日期：2019年5月20日"
+    },
+    {
+      "page": 3,
+      "position": [
+        1075,
+        1064,
+        1122,
+        1065,
+        1120,
+        1266,
+        1073,
+        1265
+      ],
+      "type": "text",
+      "content": "聯少"
+    },
+    {
+      "page": 4,
+      "position": [
+        174,
+        265,
+        224,
+        265,
+        224,
+        281,
+        174,
+        281
+      ],
+      "type": "header",
+      "content": "附件："
+    },
+    {
+      "type": "table",
+      "page": 4,
+      "position": [
+        235,
+        318,
+        959,
+        316,
+        960,
+        1444,
+        231,
+        1449
+      ],
+      "structured": {
+        "headers": [
+          {
+            "text": "Voluson E10 配置"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "text": "Voluson E10 煊光超声系统"
+            }
+          ],
+          [
+            {
+              "text": "Code Scan 全新一代编码技术"
+            }
+          ],
+          [
+            {
+              "text": "Digital Raw-data Processing,Storage and Management System 原始数据处理技术"
+            }
+          ],
+          [
+            {
+              "text": "Scanning modes／扫描模式：<br>2D -Mode 二维，单幅双幅四幅显示<br>·3D-Mode 三维<br>· 4D-Mode 四维<br>· M-Mode M 型，color M mode，彩色M 型<br>· Color Doppler 彩色多普勒<br>·Color Angio 能量图<br>· HD Flow Color 短脉冲多普勒血流<br>· TD Doppler 组织多普勒<br>· PW/HPRF Doppler 脉冲波／高脉冲重复频率多普勒<br>· Steerable CW 可偏转连续波多普勒"
+            }
+          ],
+          [
+            {
+              "text": "System Highlight<br>数字化多声束并行形成器<br>·宽频变频技术，系统频率1 . 0 -18MHz<br>· 274dB 动态范围<br>·数字式TGC 调节<br>· 23  寸彩色高分辨率液晶显示器<br>· 12 . 1 英寸彩色触摸屏操作<br>· 3 个激活探头接☐<br>· 500GB 硬盘<br>· 内置DVD/CD-RW 驱动器<br>· 数控电动高度调节<br>· One Finger to Position 浮动操作平台<br>· 探头接☐状态照明系统<br>· 腔内探头专用放置支架<br>电缆防缠绕管理系统"
+            }
+          ],
+          [
+            {
+              "text": "HDlive 高分辨容积成像"
+            }
+          ],
+          [
+            {
+              "text": "HDlive Silhouette 煊影成像"
+            }
+          ],
+          [
+            {
+              "text": "HDlive Flow 煊流技术"
+            }
+          ],
+          [
+            {
+              "text": "Flexible Light Source：智能可变光源系统"
+            }
+          ],
+          [
+            {
+              "text": "SonoRenderlive 实时智能容积成像"
+            }
+          ],
+          [
+            {
+              "text": "Advanced 4D 高级4D"
+            }
+          ],
+          [
+            {
+              "text": "Advanced Volume Contrast Imaging(VCI) with OmniView<br>高级容积对比成像和自由解剖切面"
+            }
+          ],
+          [
+            {
+              "text": "Advanced STIC 高级时间空间相关技术（STIC）技术"
+            }
+          ],
+          [
+            {
+              "text": "Volume calculation II (VOCAL II）智能体积计算"
+            }
+          ],
+          [
+            {
+              "text": "SonoAVC-Sonography Based Automated Volume Count 智能容积计算"
+            }
+          ],
+          [
+            {
+              "text": "SonoVCAD™labor- (Sonography Based Volumne Computer Aided Display)<br>自动产程监测与管理系统"
+            }
+          ],
+          [
+            {
+              "text": "Inversion Mode／反转模式页共4 页"
+            }
+          ],
+          [
+            {
+              "text": "β-view ／容积探头自动偏转扫描技术"
+            }
+          ],
+          [
+            {
+              "text": "RealTime 4D Biopsy Option<br>实时4 维穿刺软件包"
+            }
+          ],
+          [
+            {
+              "text": "SonoNT:Sonography-based Nuchal Translucency 自动颈后透明层厚度测量"
+            }
+          ],
+          [
+            {
+              "text": "SonolT:Semi-automated intracranial translucency 自动颅内透明层测量"
+            }
+          ],
+          [
+            {
+              "text": "SonoBiometry:Semi-automated fetal biometric 胎儿生长指标自动测量功能"
+            }
+          ],
+          [
+            {
+              "text": "Real-time automatic Doppler calculations 多普勒实时自动计算功能"
+            }
+          ],
+          [
+            {
+              "text": "Full measurement and analysis package<br>全面专业的测量分析软件包"
+            }
+          ],
+          [
+            {
+              "text": "GYN  IOTA  卵巢肿瘤分析报告系统"
+            }
+          ],
+          [
+            {
+              "text": "Scan assistant／扫描助手"
+            }
+          ],
+          [
+            {
+              "text": "V-SRI-Volume Speckle Reduction Imaging 容积智能斑点噪声抑制技术，"
+            }
+          ],
+          [
+            {
+              "text": "Coded Excitation(CE)／编码激励技术"
+            }
+          ],
+          [
+            {
+              "text": "CrossXBeamCRI／复合成像技术"
+            }
+          ],
+          [
+            {
+              "text": "Speckle Reduction Imaging (SRI II）斑点噪音抑制技术"
+            }
+          ],
+          [
+            {
+              "text": "Frequency & Focus Compound(FFC)／频率复合成像技术"
+            }
+          ],
+          [
+            {
+              "text": "Tissue Harmonic Imaging／组织谐波成像"
+            }
+          ],
+          [
+            {
+              "text": "Virtual Convex／凸型扩展技术"
+            }
+          ],
+          [
+            {
+              "text": "Auto Tissue Optimize(ATO)／自动组织优化技术"
+            }
+          ],
+          [
+            {
+              "text": "HD  Flow  超高细微分辨血流技术"
+            }
+          ],
+          [
+            {
+              "text": "Tissue Color Doppler Imaging／组织多普勒成像技术"
+            }
+          ],
+          [
+            {
+              "text": "Anatomic M-Mode 解剖M 型"
+            }
+          ],
+          [
+            {
+              "text": "XTD VIEW／宽景成像技术"
+            }
+          ],
+          [
+            {
+              "text": "Elastography／组织弹性成像技术"
+            }
+          ],
+          [
+            {
+              "text": "B -Flow ／二维灰阶血流成像"
+            }
+          ],
+          [
+            {
+              "text": "Coded Contrast Imaging 编码的造影剂成像技术"
+            }
+          ],
+          [
+            {
+              "text": "DVD and USB Recorder 数字式DVD/USB 视频刻录系统"
+            }
+          ],
+          [
+            {
+              "text": "ECG Digital Module 心电模块"
+            }
+          ],
+          [
+            {
+              "text": "Continue Wave Doppler 连续波多普勒"
+            }
+          ],
+          [
+            {
+              "text": "Interface for DICOM 3.0 接☐"
+            }
+          ],
+          [
+            {
+              "text": "VOLUSON Destination Set CHINA 电源总成-中国"
+            }
+          ],
+          [
+            {
+              "text": "Transvaginal probe holder Right 经阴道探头专用支架"
+            }
+          ],
+          [
+            {
+              "text": "Remote Application 远程应用支持"
+            }
+          ],
+          [
+            {
+              "text": "Operation Manual Voluson E10 Chinese/English 中英文操作手册"
+            }
+          ],
+          [
+            {
+              "text": "· RM6C-D Wide Band 1.0-7.0MHz Convex Volume Probe with AMA Technology<br>RM6C -D  宽带1 . 0 -7 . 0MHz 有源面阵凸阵容积探头，"
+            }
+          ],
+          [
+            {
+              "text": "· C1-5-D Wide Band convex 2.0-5.0MHz probe<br>C1-5-D 宽带2.0-5.0MHz"
+            }
+          ],
+          [
+            {
+              "text": "· ML6-15-D Wide Band4.0-10.0MHz Linear Probe<br>ML6-15-D 宽带4.0-10.0MHz 线阵探头。"
+            }
+          ],
+          [
+            {
+              "text": "· C2-9-D Wide Band2.0-5.0MHz Linear Probe<br>C2 -9 -D 单晶体宽带2 . 0 -5 . 0MHz 凸阵探头，"
+            }
+          ]
+        ]
+      },
+      "html": "<table border=\"1\" ><tr>\n<td>Voluson E10 配置</td>\n</tr><tr>\n<td>Voluson E10 煊光超声系统</td>\n</tr><tr>\n<td>Code Scan 全新一代编码技术</td>\n</tr><tr>\n<td>Digital Raw-data Processing,Storage and Management System 原始数据处理技术</td>\n</tr><tr>\n<td>Scanning modes／扫描模式：<br>2D -Mode 二维，单幅双幅四幅显示<br>·3D-Mode 三维<br>· 4D-Mode 四维<br>· M-Mode M 型，color M mode，彩色M 型<br>· Color Doppler 彩色多普勒<br>·Color Angio 能量图<br>· HD Flow Color 短脉冲多普勒血流<br>· TD Doppler 组织多普勒<br>· PW/HPRF Doppler 脉冲波／高脉冲重复频率多普勒<br>· Steerable CW 可偏转连续波多普勒</td>\n</tr><tr>\n<td>System Highlight<br>数字化多声束并行形成器<br>·宽频变频技术，系统频率1 . 0 -18MHz<br>· 274dB 动态范围<br>·数字式TGC 调节<br>· 23  寸彩色高分辨率液晶显示器<br>· 12 . 1 英寸彩色触摸屏操作<br>· 3 个激活探头接☐<br>· 500GB 硬盘<br>· 内置DVD/CD-RW 驱动器<br>· 数控电动高度调节<br>· One Finger to Position 浮动操作平台<br>· 探头接☐状态照明系统<br>· 腔内探头专用放置支架<br>电缆防缠绕管理系统</td>\n</tr><tr>\n<td>HDlive 高分辨容积成像</td>\n</tr><tr>\n<td>HDlive Silhouette 煊影成像</td>\n</tr><tr>\n<td>HDlive Flow 煊流技术</td>\n</tr><tr>\n<td>Flexible Light Source：智能可变光源系统</td>\n</tr><tr>\n<td>SonoRenderlive 实时智能容积成像</td>\n</tr><tr>\n<td>Advanced 4D 高级4D</td>\n</tr><tr>\n<td>Advanced Volume Contrast Imaging(VCI) with OmniView<br>高级容积对比成像和自由解剖切面</td>\n</tr><tr>\n<td>Advanced STIC 高级时间空间相关技术（STIC）技术</td>\n</tr><tr>\n<td>Volume calculation II (VOCAL II）智能体积计算</td>\n</tr><tr>\n<td>SonoAVC-Sonography Based Automated Volume Count 智能容积计算</td>\n</tr><tr>\n<td>SonoVCAD™labor- (Sonography Based Volumne Computer Aided Display)<br>自动产程监测与管理系统</td>\n</tr><tr>\n<td>Inversion Mode／反转模式页共4 页</td>\n</tr><tr>\n<td>β-view ／容积探头自动偏转扫描技术</td>\n</tr><tr>\n<td>RealTime 4D Biopsy Option<br>实时4 维穿刺软件包</td>\n</tr><tr>\n<td>SonoNT:Sonography-based Nuchal Translucency 自动颈后透明层厚度测量</td>\n</tr><tr>\n<td>SonolT:Semi-automated intracranial translucency 自动颅内透明层测量</td>\n</tr><tr>\n<td>SonoBiometry:Semi-automated fetal biometric 胎儿生长指标自动测量功能</td>\n</tr><tr>\n<td>Real-time automatic Doppler calculations 多普勒实时自动计算功能</td>\n</tr><tr>\n<td>Full measurement and analysis package<br>全面专业的测量分析软件包</td>\n</tr><tr>\n<td>GYN  IOTA  卵巢肿瘤分析报告系统</td>\n</tr><tr>\n<td>Scan assistant／扫描助手</td>\n</tr><tr>\n<td>V-SRI-Volume Speckle Reduction Imaging 容积智能斑点噪声抑制技术，</td>\n</tr><tr>\n<td>Coded Excitation(CE)／编码激励技术</td>\n</tr><tr>\n<td>CrossXBeamCRI／复合成像技术</td>\n</tr><tr>\n<td>Speckle Reduction Imaging (SRI II）斑点噪音抑制技术</td>\n</tr><tr>\n<td>Frequency & Focus Compound(FFC)／频率复合成像技术</td>\n</tr><tr>\n<td>Tissue Harmonic Imaging／组织谐波成像</td>\n</tr><tr>\n<td>Virtual Convex／凸型扩展技术</td>\n</tr><tr>\n<td>Auto Tissue Optimize(ATO)／自动组织优化技术</td>\n</tr><tr>\n<td>HD  Flow  超高细微分辨血流技术</td>\n</tr><tr>\n<td>Tissue Color Doppler Imaging／组织多普勒成像技术</td>\n</tr><tr>\n<td>Anatomic M-Mode 解剖M 型</td>\n</tr><tr>\n<td>XTD VIEW／宽景成像技术</td>\n</tr><tr>\n<td>Elastography／组织弹性成像技术</td>\n</tr><tr>\n<td>B -Flow ／二维灰阶血流成像</td>\n</tr><tr>\n<td>Coded Contrast Imaging 编码的造影剂成像技术</td>\n</tr><tr>\n<td>DVD and USB Recorder 数字式DVD/USB 视频刻录系统</td>\n</tr><tr>\n<td>ECG Digital Module 心电模块</td>\n</tr><tr>\n<td>Continue Wave Doppler 连续波多普勒</td>\n</tr><tr>\n<td>Interface for DICOM 3.0 接☐</td>\n</tr><tr>\n<td>VOLUSON Destination Set CHINA 电源总成-中国</td>\n</tr><tr>\n<td>Transvaginal probe holder Right 经阴道探头专用支架</td>\n</tr><tr>\n<td>Remote Application 远程应用支持</td>\n</tr><tr>\n<td>Operation Manual Voluson E10 Chinese/English 中英文操作手册</td>\n</tr><tr>\n<td>· RM6C-D Wide Band 1.0-7.0MHz Convex Volume Probe with AMA Technology<br>RM6C -D  宽带1 . 0 -7 . 0MHz 有源面阵凸阵容积探头，</td>\n</tr><tr>\n<td>· C1-5-D Wide Band convex 2.0-5.0MHz probe<br>C1-5-D 宽带2.0-5.0MHz</td>\n</tr><tr>\n<td>· ML6-15-D Wide Band4.0-10.0MHz Linear Probe<br>ML6-15-D 宽带4.0-10.0MHz 线阵探头。</td>\n</tr><tr>\n<td>· C2-9-D Wide Band2.0-5.0MHz Linear Probe<br>C2 -9 -D 单晶体宽带2 . 0 -5 . 0MHz 凸阵探头，</td>\n</tr></table>"
+    },
+    {
+      "page": 5,
+      "position": [
+        417,
+        1425,
+        516,
+        1425,
+        516,
+        1440,
+        417,
+        1440
+      ],
+      "type": "footer",
+      "content": "第4页共4页"
+    }
+  ],
+  "metadata": {
+    "document_title": "医疗设备采购合同",
+    "party_a": "宁夏回族自治区妇幼保健院（儿童医院） 地址：金凤区湖畔路127号 电话：0951-7835887",
+    "party_b": "江苏悦胜科技投资有限公司 地址：江苏省南京市玄武区珠江路88号1幢2713室 电话：025-58813698 甲方通过政府招标采购，经专家评委公开、公平、公正评审，最终确认乙方为中标单位。为进一步明确",
+    "contract_no": "ZTSJ-NZC/A19077"
+  }
+}
