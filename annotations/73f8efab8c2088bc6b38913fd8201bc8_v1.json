@@ -1,5 +1,4 @@
 {
-  "file": "73f8efab8c2088bc6b38913fd8201bc8_textin.json",
   "total_pages": 27,
   "stats": {
     "text": 215,
@@ -5300,12 +5299,5 @@
       "type": "footer",
       "content": "26"
     }
-  ],
-  "metadata": {
-    "document_title": "合同书",
-    "party_a": "宁夏回族自治区信访局",
-    "party_b": "宁夏计算机软件与技术服务有限公司 宁夏回族自治区信访局（以下简称甲方）通过政府采购公开招标的方式，确定宁夏计算机软件与技术服务有限公司（以下简称乙方）为本次“宁夏网上信访信息系统驻场运维服务项目”的成",
-    "contract_no": "NXJF-SCKF-2019075",
-    "amount": 1188000.0
-  }
+  ]
 }

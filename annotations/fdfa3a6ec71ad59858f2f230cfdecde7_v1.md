@@ -1,13 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'ad2334b5-05fc-446f-ac93-f870228e4410'
-  PropagateID: 'ad2334b5-05fc-446f-ac93-f870228e4410'
-  ReservedCode1: 'da09b361-8d95-4363-93ee-c337228e2493'
-  ReservedCode2: 'da09b361-8d95-4363-93ee-c337228e2493'
----
 
  彭阳出院2017.3.30
 
@@ -356,4 +346,3 @@ AIGC:
 
  13
 
-> AI生成

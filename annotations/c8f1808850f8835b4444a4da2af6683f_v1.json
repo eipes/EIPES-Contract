@@ -1,5 +1,4 @@
 {
-  "file": "c8f1808850f8835b4444a4da2af6683f_textin.json",
   "total_pages": 10,
   "stats": {
     "text": 114,
@@ -2767,12 +2766,5 @@
       "caption_page": 10,
       "caption_index": 0
     }
-  ],
-  "metadata": {
-    "document_title": "采购合同",
-    "buyer": "宁夏工商职业技术学院",
-    "seller": "兰州方维信息技术有限公司 签订日期：2019年8月 日 一、合同协议书 本协议由宁夏工商职业技术学院（以下简称“买方”）与兰州方维信息技术有限公司（以下简称“卖方”）共同签署。 本项目以公开招标方式采",
-    "contract_no": "2019NCZ002078W",
-    "amount": 652550.0
-  }
+  ]
 }

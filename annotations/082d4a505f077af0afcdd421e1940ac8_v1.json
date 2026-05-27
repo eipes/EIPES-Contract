@@ -1,5 +1,4 @@
 {
-  "file": "082d4a505f077af0afcdd421e1940ac8_textin.json",
   "total_pages": 4,
   "stats": {
     "header": 1,
@@ -1308,10 +1307,5 @@
       "type": "footer",
       "content": "第4页共4页"
     }
-  ],
-  "metadata": {
-    "document_title": "质检设备更新采购合同",
-    "contract_no": "2019NCZ000684W",
-    "amount": 385740.0
-  }
+  ]
 }

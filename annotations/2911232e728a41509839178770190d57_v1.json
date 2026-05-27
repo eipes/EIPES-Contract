@@ -1,5 +1,4 @@
 {
-  "file": "2911232e728a41509839178770190d57_textin.json",
   "total_pages": 5,
   "stats": {
     "text": 99,
@@ -1946,10 +1945,5 @@
       "type": "footer",
       "content": "5/108"
     }
-  ],
-  "metadata": {
-    "document_title": "施工合同",
-    "sign_date": "2019年4月18日",
-    "amount": 1000.0
-  }
+  ]
 }

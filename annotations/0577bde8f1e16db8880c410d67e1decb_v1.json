@@ -1,5 +1,4 @@
 {
-  "file": "0577bde8f1e16db8880c410d67e1decb_textin.json",
   "total_pages": 15,
   "stats": {
     "text": 144,
@@ -3320,9 +3319,5 @@
       "type": "footer",
       "content": "-14-"
     }
-  ],
-  "metadata": {
-    "document_title": "维修改造工程施工合同",
-    "amount": 3100000.0
-  }
+  ]
 }

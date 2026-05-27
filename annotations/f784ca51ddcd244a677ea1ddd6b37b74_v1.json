@@ -1,5 +1,4 @@
 {
-  "file": "f784ca51ddcd244a677ea1ddd6b37b74_textin.json",
   "total_pages": 16,
   "stats": {
     "title": 25,
@@ -2673,12 +2672,5 @@
       "type": "footer",
       "content": "15"
     }
-  ],
-  "metadata": {
-    "document_title": "审判服务采购项目合同书",
-    "party_a": "盐池县人民法院（委托方）",
-    "party_b": "宁夏法友网络科技服务有限公司（受托方） 根据《中华人民共和国合同法》及GMJ-20190017号招标文件和中标通知书的要求，在自愿、平等、互利的基础上，经共同协商，就盐池县人民法院审判服务采购项目事宜",
-    "contract_no": "NXFY-19-02",
-    "amount": 2000.0
-  }
+  ]
 }

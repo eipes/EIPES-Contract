@@ -1,13 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '0a07c42a-1ee7-4e1a-aa58-b517e841d408'
-  PropagateID: '0a07c42a-1ee7-4e1a-aa58-b517e841d408'
-  ReservedCode1: '3679c758-68e1-4d31-b9b0-eb15ba4700bc'
-  ReservedCode2: '3679c758-68e1-4d31-b9b0-eb15ba4700bc'
----
 
 # 宁夏回族自治区石嘴山监狱办公设备购
 
@@ -171,4 +161,3 @@ AIGC:
 
  地址：宁夏银川市金凤区宁安大街490号IBI育成中心8号楼 电话：0951-6025288 6025166 第5页
 
-> AI生成

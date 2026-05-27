@@ -1,13 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '17d08142-957a-488a-9bca-4e12918a7f7b'
-  PropagateID: '17d08142-957a-488a-9bca-4e12918a7f7b'
-  ReservedCode1: '10dafcef-cc3f-4ae7-acd2-a0e5df503948'
-  ReservedCode2: '10dafcef-cc3f-4ae7-acd2-a0e5df503948'
----
 
 # 灵武市人民法院数字法庭采购项目
 
@@ -577,4 +567,3 @@ AIGC:
 
  15
 
-> AI生成

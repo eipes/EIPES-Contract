@@ -1,5 +1,4 @@
 {
-  "file": "08958b4eaedcf9775bcdf7f4b3c07515_textin.json",
   "total_pages": 8,
   "stats": {
     "header": 14,
@@ -2274,12 +2273,5 @@
       },
       "html": "<table border=\"1\" ><tr>\n<td>序号</td>\n<td>名称</td>\n<td>型号和规格</td>\n<td>原产地和制造商名称</td>\n<td>数量</td>\n<td>单位</td>\n<td>单价<br>（元）</td>\n<td>总价<br>（元）</td>\n</tr><tr>\n<td>1</td>\n<td>机柜</td>\n<td>32U 服务器机柜</td>\n<td>河北 鑫宇</td>\n<td>3</td>\n<td>台</td>\n<td>2340</td>\n<td>7020</td>\n</tr><tr>\n<td>2</td>\n<td>48 口千兆交换机</td>\n<td>S4600-52P-SI</td>\n<td>北京 神码</td>\n<td>1</td>\n<td>套</td>\n<td>3480</td>\n<td>3480</td>\n</tr><tr>\n<td>3</td>\n<td>高清示教主机</td>\n<td>MEDT100-B</td>\n<td>江苏 科达</td>\n<td>6</td>\n<td>台</td>\n<td>59800</td>\n<td>358800</td>\n</tr><tr>\n<td>4</td>\n<td>全景摄像机</td>\n<td>IPC421-F120</td>\n<td>江苏 科达</td>\n<td>10</td>\n<td>套</td>\n<td>4500</td>\n<td>45000</td>\n</tr><tr>\n<td>5</td>\n<td>吸顶音箱</td>\n<td>OBT-811</td>\n<td>广东 欧博</td>\n<td>15</td>\n<td>个</td>\n<td>280</td>\n<td>4200</td>\n</tr><tr>\n<td>6</td>\n<td>领夹麦克风</td>\n<td>OBT-8280L</td>\n<td>广东 欧博</td>\n<td>5</td>\n<td>个</td>\n<td>2510</td>\n<td>12550</td>\n</tr><tr>\n<td>7</td>\n<td>投影仪</td>\n<td>HCP-FX55</td>\n<td>日本 日立</td>\n<td>3</td>\n<td>套</td>\n<td>10400</td>\n<td>31200</td>\n</tr><tr>\n<td>8</td>\n<td>音量控制面板</td>\n<td></td>\n<td>IPS</td>\n<td>5</td>\n<td>台</td>\n<td>3000</td>\n<td>15000</td>\n</tr><tr>\n<td>9</td>\n<td>120 寸幕布</td>\n<td>120 寸幕布</td>\n<td>深圳 视美佳</td>\n<td>3</td>\n<td>套</td>\n<td>400</td>\n<td>1200</td>\n</tr><tr>\n<td>10</td>\n<td>高清一体化终端</td>\n<td>SKY 300-L</td>\n<td>江苏 科达</td>\n<td>1</td>\n<td>台</td>\n<td>37600</td>\n<td>37600</td>\n</tr><tr>\n<td>11</td>\n<td>功率放大器</td>\n<td>OBT-P3500S</td>\n<td>广东 欧博</td>\n<td>5</td>\n<td>个</td>\n<td>2000</td>\n<td>10000</td>\n</tr><tr>\n<td>12</td>\n<td>售后服务</td>\n<td colspan=\"6\">本项目机柜六年质保，48 口千兆交换机、高清示教主机、全景摄像机、高清一体化终端三年质保，其余设备质保期一年，提供免费升级，投标方需提供售后服务承诺，确保2 小时内响应，当天到达现场。</td>\n</tr><tr>\n<td colspan=\"8\">合计：人民币（大写）：伍拾贰万陆仟零伍拾元整；小写：526050 元</td>\n</tr></table>"
     }
-  ],
-  "metadata": {
-    "document_title": "宁夏医科大学货物招标（采购）合同",
-    "party_a": "宁夏医科大学",
-    "party_b": "宁夏靖宸信息技术有 限公司 法定代表人： 法定代表人： 主管校领导： 2 签约代表： 采购部门负责人：孟力勃 使用部门负责人：李 开户银行及账号：中国建设银行银川中清丸 开户银行及账号：银川市农行 医",
-    "contract_no": "NY2019025",
-    "amount": 526050.0
-  }
+  ]
 }

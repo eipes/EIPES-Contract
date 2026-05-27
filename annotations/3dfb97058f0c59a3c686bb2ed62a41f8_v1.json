@@ -1,5 +1,4 @@
 {
-  "file": "3dfb97058f0c59a3c686bb2ed62a41f8_textin.json",
   "total_pages": 17,
   "stats": {
     "title": 39,
@@ -6078,10 +6077,5 @@
       "type": "footer",
       "content": "17"
     }
-  ],
-  "metadata": {
-    "document_title": "消防工程施工合同",
-    "sign_date": "2017年12月8日",
-    "amount": 418716.64
-  }
+  ]
 }

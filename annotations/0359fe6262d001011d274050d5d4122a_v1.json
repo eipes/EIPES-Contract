@@ -1,5 +1,4 @@
 {
-  "file": "0359fe6262d001011d274050d5d4122a_textin.json",
   "total_pages": 3,
   "stats": {
     "text": 31,
@@ -881,12 +880,5 @@
       "type": "footer",
       "content": "3/3"
     }
-  ],
-  "metadata": {
-    "document_title": "购销合同",
-    "party_a": "宁夏回族自治区石嘴山监狱",
-    "party_b": "宁夏盛世恒通商贸有限公司 二0一九年二月 甲 方：宁夏回族自治区石嘴山监狱 合同编号：NXSSHT-YC190227 乙方：宁夏盛世恒通商贸有限公司 一、货物交付期限： 1、乙方应在合同签定后后15日",
-    "contract_no": "NXSSHT-YC190227",
-    "amount": 194800.0
-  }
+  ]
 }

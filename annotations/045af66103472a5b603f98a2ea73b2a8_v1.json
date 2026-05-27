@@ -1,5 +1,4 @@
 {
-  "file": "045af66103472a5b603f98a2ea73b2a8_textin.json",
   "total_pages": 6,
   "stats": {
     "text": 32,
@@ -984,12 +983,5 @@
       "type": "text",
       "content": "υ"
     }
-  ],
-  "metadata": {
-    "document_title": "数字线划图（DLG）生产合同",
-    "party_a": "宁夏回族自治区测绘地理信息院",
-    "party_b": "陕西天润科技股份有限公司 二零一九年月日 依据《中华人民共和国合同法》《中华人民共和国测绘法》《宁夏1:2000 基础地理信息数据库及“多库合一”项目数字线划图（DLG）生产服务协议书》及《宁夏1:2",
-    "contract_no": "JCYDLG-",
-    "amount": 197505.0
-  }
+  ]
 }

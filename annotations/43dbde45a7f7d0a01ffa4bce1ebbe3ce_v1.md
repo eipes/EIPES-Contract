@@ -1,13 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'b35fc4e9-74af-4a9c-9dcd-00a7d6e4a222'
-  PropagateID: 'b35fc4e9-74af-4a9c-9dcd-00a7d6e4a222'
-  ReservedCode1: '7de3aae9-9ce6-46fb-bbc2-d75f711787ba'
-  ReservedCode2: '7de3aae9-9ce6-46fb-bbc2-d75f711787ba'
----
 
 # 宁夏人工草地资源调查
 
@@ -255,4 +245,3 @@ AIGC:
 
 ![宁夏回族自治区公共资源交易服务中心    进场专用    ](http://document-private.ai.intsig.net/api/contracts/v3/parser/image/download?image_id=MjAyNjA1MjYvcGFyc2VyLzE0My82NDYzL2JhOWY3NjM2MzczYzJhOWEuanBn.jpg)
 
-> AI生成

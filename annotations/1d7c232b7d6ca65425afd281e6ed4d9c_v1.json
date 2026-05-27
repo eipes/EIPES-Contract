@@ -1,5 +1,4 @@
 {
-  "file": "1d7c232b7d6ca65425afd281e6ed4d9c_textin.json",
   "total_pages": 4,
   "stats": {
     "text": 38,
@@ -987,12 +986,5 @@
       "type": "footer",
       "content": "3"
     }
-  ],
-  "metadata": {
-    "document_title": "采购合同",
-    "party_a": "宁夏旅游学校",
-    "party_b": "**银川辉煌世纪电子科技有限公司** （盖章） （盖章） 法定代表人： 法定代表人： 授权委托代理人 授权委托代理人： 电话：0951-2083659 电话：0951-6023237 户名：宁夏旅游学",
-    "contract_no": "20190401DD0007W",
-    "amount": 6238.0
-  }
+  ]
 }

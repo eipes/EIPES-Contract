@@ -1,5 +1,4 @@
 {
-  "file": "849eebff7c953fbbf90d16bae4eb0189_textin.json",
   "total_pages": 10,
   "stats": {
     "title": 15,
@@ -3084,10 +3083,5 @@
       "type": "footer",
       "content": "9/9"
     }
-  ],
-  "metadata": {
-    "document_title": "招标项目合同书",
-    "contract_no": "2019D1-104-SX",
-    "amount": 3086490.0
-  }
+  ]
 }

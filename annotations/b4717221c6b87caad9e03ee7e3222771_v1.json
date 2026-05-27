@@ -1,5 +1,4 @@
 {
-  "file": "b4717221c6b87caad9e03ee7e3222771_textin.json",
   "total_pages": 4,
   "stats": {
     "text": 34,
@@ -951,12 +950,5 @@
       "type": "footer",
       "content": "3"
     }
-  ],
-  "metadata": {
-    "document_title": "数字线划图（DLG）生产合同",
-    "party_a": "宁夏回族自治区测绘地理信息院",
-    "party_b": "中铁工程设计咨询集团有限公司 二零一九年月日 依据《中华人民共和国合同法》《中华人民共和国测绘法》《宁夏1：2000基础地理信息数据库及“多库合一”项目数字线划图（DLG）生产服务协议书》及《宁夏1:",
-    "contract_no": "JCYDLG-",
-    "amount": 185130.0
-  }
+  ]
 }

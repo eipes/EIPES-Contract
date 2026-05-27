@@ -41,9 +41,10 @@ This repository includes:
 EIPES-ContractBench/
 ├── README.md
 ├── samples/
-│   └── contract_001.pdf          # Original contract PDF / 原始合同文件
+│   └── contract001.pdf          # Original contract PDF / 原始合同文件
 └── annotations/
-    └── contract_001.json         # Annotation / 标注 JSON
+    ├── contract001_v1.json         # Annotation / 标注 JSON
+    └── contract001_v1.md          # Markdown
 ```
 
 ### Annotation Schema Example / 标注格式示例
@@ -51,48 +52,113 @@ EIPES-ContractBench/
 
 ```json
 {
-  "doc_id": "contract_001",
-  "meta": {
-    "doc_type": "Purchase Contract / 采购合同",
-    "total_pages": 1
+  "total_pages": 6,
+  "stats": {
+    "text": 43,
+    "title": 12,
+    "table_title": 1,
+    "table": 2,
+    "stamp": 2
   },
-  "pages": [
+  "contents": [
     {
-      "page_index": 0,
-      "size": { "width": 1240, "height": 1754 },
-      
-      "comment_1": "1. OCR & Layout Analysis Layer / 文本块与版面分析层",
-      "layout_elements": [
-        {
-          "id": "block_0",
-          "type": "title",
-          "bbox": [100, 150, 1140, 220],
-          "text": "物资采购合同"
-        },
-        {
-          "id": "block_1",
-          "type": "table",
-          "bbox": [100, 500, 1140, 900],
-          "cells": [
-            { "row": 0, "col": 0, "text": "序号", "bbox": [110, 510, 200, 550] }
-          ]
-        }
+      "page": 1,
+      "position": [
+        657,
+        112,
+        995,
+        112,
+        995,
+        142,
+        657,
+        142
       ],
-      
-      "comment_2": "2. Key Information Extraction (KIE) / 关键实体抽取层",
-      "kie_entities": [
-        { "label": "party_a", "text": "某某科技有限公司", "bbox": [200, 300, 500, 340] },
-        { "label": "party_b", "text": "某某制造有限公司", "bbox": [200, 350, 500, 390] },
-        { "label": "contract_amount", "text": "￥1,000,000.00", "bbox": [800, 1200, 950, 1240] }
-      ]
-    }
-  ],
-  
-  "comment_3": "3. High-level Semantic Clause Layer / 高层级语义条款层",
-  "clauses": [
+      "type": "text",
+      "content": "合同编号：HRK2019-3-01"
+    },
     {
-      "type": "dispute_resolution",
-      "text": "本合同在履行过程中发生的争议，由双方当事人协商解决；协商不成的，提交上海仲裁委员会仲裁。"
+      "page": 1,
+      "position": [
+        176,
+        231,
+        977,
+        231,
+        977,
+        334,
+        176,
+        334
+      ],
+      "type": "title",
+      "level": 0,
+      "content": "环境污染防治管理中心大气全面量化管理医废处置废气监督性监测及应急演练项目"
+    },
+    {
+      "type": "table",
+      "page": 6,
+      "position": [
+        122,
+        1106,
+        1090,
+        1097,
+        1094,
+        1490,
+        120,
+        1498
+      ],
+      "structured": {
+        "headers": [
+          {
+            "text": "买方<br>（盖章）"
+          },
+          {
+            "text": "环境污染防治管理中心"
+          },
+          {
+            "text": ""
+          },
+          {
+            "text": "买方<br>（盖章）"
+          },
+          {
+            "text": "XXX有限公司"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "text": "法人（代表）签字"
+            },
+            {
+              "text": "吴世"
+            },
+            {
+              "text": "",
+              "row_span": 2
+            },
+            {
+              "text": "法人（代表）签字"
+            },
+            {
+              "text": "罗云"
+            }
+          ],
+          [
+            {
+              "text": "日期："
+            },
+            {
+              "text": "2019 年4月15日"
+            },
+            {
+              "text": "日期："
+            },
+            {
+              "text": "2019年3 月7 日"
+            }
+          ]
+        ]
+      },
+      "html": "<table border=\"1\" ><tr>\n<td>买方<br>（盖章）</td>\n<td>环境污染防治管理中心</td>\n<td></td>\n<td>买方<br>（盖章）</td>\n<td>XXX有限公司</td>\n</tr><tr>\n<td>法人（代表）签字</td>\n<td>吴世</td>\n<td rowspan=\"2\"></td>\n<td>法人（代表）签字</td>\n<td>罗云</td>\n</tr><tr>\n<td>日期：</td>\n<td>2019 年4月15日</td>\n<td>日期：</td>\n<td>2019年3 月7 日</td>\n</tr></table>"
     }
   ]
 }

@@ -1,5 +1,4 @@
 {
-  "file": "55919d41476e12ec7199627d8919be18_textin.json",
   "total_pages": 2,
   "stats": {
     "header": 1,
@@ -844,11 +843,5 @@
       "type": "footer",
       "content": "2"
     }
-  ],
-  "metadata": {
-    "document_title": "十一、结算方式及期限：合同中货物安装调试正常7日内，甲方一次性付清全部合同货款。",
-    "party_a": "宁夏大学（西部生态中心）",
-    "contract_no": "WC-NTDZ(2019）第012号",
-    "amount": 24995.0
-  }
+  ]
 }

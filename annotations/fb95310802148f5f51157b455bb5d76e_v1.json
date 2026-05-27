@@ -1,5 +1,4 @@
 {
-  "file": "fb95310802148f5f51157b455bb5d76e_textin.json",
   "total_pages": 8,
   "stats": {
     "title": 14,
@@ -1658,13 +1657,5 @@
       },
       "html": "<table border=\"1\" ><tr>\n<td>商品介绍 商品</td>\n<td colspan=\"2\">参数 服务属性</td>\n</tr><tr>\n<td rowspan=\"14\">基本参数<br>处理器</td>\n<td>产品类型</td>\n<td>联想商用便携式笔记本</td>\n</tr><tr>\n<td>产品定位</td>\n<td>联想商用便携式笔记本</td>\n</tr><tr>\n<td>操作系统</td>\n<td>win7  操作系统</td>\n</tr><tr>\n<td>CPU 系列</td>\n<td>15-7200u</td>\n</tr><tr>\n<td>CPU 型号</td>\n<td>i5-7200u</td>\n</tr><tr>\n<td>CPU 主频</td>\n<td></td>\n</tr><tr>\n<td>最高睿频</td>\n<td></td>\n</tr><tr>\n<td>总线规格</td>\n<td></td>\n</tr><tr>\n<td>三级缓存</td>\n<td></td>\n</tr><tr>\n<td>核心架构</td>\n<td></td>\n</tr><tr>\n<td>核心／线程数</td>\n<td></td>\n</tr><tr>\n<td>制程工艺</td>\n<td></td>\n</tr><tr>\n<td>指令集</td>\n<td></td>\n</tr><tr>\n<td>功耗</td>\n<td></td>\n</tr><tr>\n<td rowspan=\"12\">存储设备<br>显示屏</td>\n<td>内存容量</td>\n<td>お</td>\n</tr><tr>\n<td>内存类型</td>\n<td>DDR4</td>\n</tr><tr>\n<td>硬盘容量</td>\n<td>258G 固态硬盘</td>\n</tr><tr>\n<td>硬盘描述</td>\n<td></td>\n</tr><tr>\n<td>光驱类型</td>\n<td></td>\n</tr><tr>\n<td>触控屏</td>\n<td></td>\n</tr><tr>\n<td>屏幕尺寸</td>\n<td>1 时寸</td>\n</tr><tr>\n<td>显示比例</td>\n<td></td>\n</tr><tr>\n<td>屏幕分辨率</td>\n<td>全高清屏</td>\n</tr><tr>\n<td>屏葛技术</td>\n<td></td>\n</tr><tr>\n<td>显卡类型</td>\n<td>独立显卡</td>\n</tr><tr>\n<td>显卡芯片</td>\n<td></td>\n</tr><tr>\n<td rowspan=\"2\">显卡</td>\n<td>显卡容量</td>\n<td>2G</td>\n</tr><tr>\n<td>显卡类型</td>\n<td></td>\n</tr></table>"
     }
-  ],
-  "metadata": {
-    "document_title": "宁夏工商学院专项工作办公设备采购项目",
-    "party_a": "宁夏工商学院",
-    "party_b": "宁夏计算机软件与技术服务有限公司 宁夏工商学院（以下简称合同甲方）通过政府采购网上直购方式购置办公设备，设备要求符合宁夏工商学院的总体规划，具有先进性、开放性、可扩展性，易于管理、维护方便，充分满足现",
-    "contract_no": "NXJF-SCKF-2019023",
-    "sign_date": "2019年4月28日",
-    "amount": 26396.0
-  }
+  ]
 }

@@ -1,5 +1,4 @@
 {
-  "file": "b3c2945154af0bdb2d84e20c2498133b_textin.json",
   "total_pages": 4,
   "stats": {
     "title": 4,
@@ -751,9 +750,5 @@
       "type": "footer",
       "content": "3"
     }
-  ],
-  "metadata": {
-    "document_title": "补充采购合同",
-    "amount": 239940.0
-  }
+  ]
 }

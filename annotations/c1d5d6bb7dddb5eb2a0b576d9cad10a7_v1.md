@@ -1,13 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '5ed9cf88-4217-43f3-b7e9-2b89337ab420'
-  PropagateID: '5ed9cf88-4217-43f3-b7e9-2b89337ab420'
-  ReservedCode1: '95a67b51-abe2-4ccf-8b7a-81aa6d488d01'
-  ReservedCode2: '95a67b51-abe2-4ccf-8b7a-81aa6d488d01'
----
 
  JRQA025091-FA19A04(x)
 
@@ -269,4 +259,3 @@ AIGC:
 
  9/9
 
-> AI生成

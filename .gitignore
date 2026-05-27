@@ -98,3 +98,4 @@ dmypy.json
 cython_debug/
 
 temp/
+script_*.py

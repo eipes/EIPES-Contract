@@ -1,5 +1,4 @@
 {
-  "file": "3a0a4db502b5b69d57a5e8d4e33e8c27_textin.json",
   "total_pages": 4,
   "stats": {
     "title": 10,
@@ -1047,11 +1046,5 @@
       "type": "text",
       "content": "日期："
     }
-  ],
-  "metadata": {
-    "document_title": "合同书",
-    "party_a": "宁夏回族自治区第四人民医",
-    "party_b": "上海益谦医疗器械有限公司 招标代理公司：宁夏恒盛招标有 合同书 招标编号：HSZB-2019ZC077 委托编号：2019NCZ001154W 电话：0951-2031280 甲方：宁夏回族自治区第四",
-    "contract_no": "2019NCZO01154W"
-  }
+  ]
 }

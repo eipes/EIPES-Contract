@@ -1,5 +1,4 @@
 {
-  "file": "c11c4c6e1e520a3def8cba63fa502752_textin.json",
   "total_pages": 8,
   "stats": {
     "header": 14,
@@ -1961,12 +1960,5 @@
       },
       "html": "<table border=\"1\" ><tr>\n<td>序号</td>\n<td>名称</td>\n<td>品牌</td>\n<td>型号和规格</td>\n<td>原产地和制造商</td>\n<td>数量</td>\n<td>单价（元）</td>\n<td>合计（元）</td>\n<td>备注</td>\n</tr><tr>\n<td>1</td>\n<td>生物显微镜（核心设备）</td>\n<td>尼康</td>\n<td>E100</td>\n<td>南京＼南京江南永新光学有限公司</td>\n<td>153</td>\n<td>4,100.00</td>\n<td>627,300.00</td>\n<td>国产</td>\n</tr></table>"
     }
-  ],
-  "metadata": {
-    "document_title": "宁夏医科大学货物招标（采购）合同",
-    "party_a": "宁夏医科大学",
-    "party_b": "宁夏若伯新技术有限公 司 法定代表人： 法定代表人： 主管校领导： xanbl 签约代表： 赵晨 采购部门负责人面力渤 使用部门负责人：刘娟 开户银行及账号：中国银行银川市解放 开户银行及账号：银川市",
-    "contract_no": "NY2019020签约地点：宁夏医科大学",
-    "amount": 627300.0
-  }
+  ]
 }

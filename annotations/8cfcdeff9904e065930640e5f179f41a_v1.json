@@ -1,5 +1,4 @@
 {
-  "file": "8cfcdeff9904e065930640e5f179f41a_textin.json",
   "total_pages": 3,
   "stats": {
     "title": 10,
@@ -947,10 +946,5 @@
       "type": "footer",
       "content": "3"
     }
-  ],
-  "metadata": {
-    "document_title": "采购合同",
-    "party_b": "银川恒友信科技有限公司 联系方式：0951-6015611 二、合同总价：合同金额为：（大写）陆万玖仟叁佰伍拾元整（¥69350.00） 三、付款方式：货物验收合格后，甲方向乙方一次性支付全部货款（¥",
-    "contract_no": "2019NCZ001254W"
-  }
+  ]
 }

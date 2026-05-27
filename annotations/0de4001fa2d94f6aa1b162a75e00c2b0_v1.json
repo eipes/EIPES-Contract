@@ -1,5 +1,4 @@
 {
-  "file": "0de4001fa2d94f6aa1b162a75e00c2b0_textin.json",
   "total_pages": 4,
   "stats": {
     "text": 46,
@@ -1063,12 +1062,5 @@
       "type": "text",
       "content": "2019年4月19日"
     }
-  ],
-  "metadata": {
-    "document_title": "院数据库采购项目",
-    "party_a": "宁夏大学** **",
-    "party_b": "中国教育图书进出口有限公司** **日期：2019年3月** 甲乙双方经友好协商，甲方向乙方订购ProQuest 中东研究资料数据库，根据《中华人民共和国政府采购法》、《中华人民共和国合同法》及其他法",
-    "contract_no": "2019",
-    "amount": 68000.0
-  }
+  ]
 }

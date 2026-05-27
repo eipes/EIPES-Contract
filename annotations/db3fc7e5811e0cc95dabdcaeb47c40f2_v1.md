@@ -1,13 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'b3d202ee-5b43-4731-96d6-fff2f4be1bc9'
-  PropagateID: 'b3d202ee-5b43-4731-96d6-fff2f4be1bc9'
-  ReservedCode1: '03af2065-91e7-429f-a8ce-b46a1e1dc456'
-  ReservedCode2: '03af2065-91e7-429f-a8ce-b46a1e1dc456'
----
 
 # 宁夏大学（农学院）
 
@@ -166,4 +156,3 @@ AIGC:
 
  第4页共4页
 
-> AI生成

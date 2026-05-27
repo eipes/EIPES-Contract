@@ -1,5 +1,4 @@
 {
-  "file": "c2debf8b1cfcbed891fc13b839d6bdda_textin.json",
   "total_pages": 16,
   "stats": {
     "title": 43,
@@ -3355,12 +3354,5 @@
       "type": "footer",
       "content": "15"
     }
-  ],
-  "metadata": {
-    "document_title": "灵武市人民法院数字法庭采购项目",
-    "party_a": "灵武市人民法院",
-    "party_b": "宁夏计算机软件与技术服务有限公司 依照《中华人民共和国合同法》和有关规定，为了明确双方责任，经双方协商一致同意，签订本合同并严格履行。 第1条 项目内容 1.1 采购设备供货。乙方按照合同提供给甲方合",
-    "contract_no": "NXJF-SCKF-2019006",
-    "amount": 124000.0
-  }
+  ]
 }

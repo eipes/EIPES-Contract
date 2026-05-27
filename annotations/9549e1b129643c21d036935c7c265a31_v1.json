@@ -1,5 +1,4 @@
 {
-  "file": "9549e1b129643c21d036935c7c265a31_textin.json",
   "total_pages": 2,
   "stats": {
     "title": 14,
@@ -658,10 +657,5 @@
       "type": "text",
       "content": "李"
     }
-  ],
-  "metadata": {
-    "document_title": "照明灯、便携灯采购合同",
-    "sign_date": "2019年10月23日",
-    "amount": 2869000.0
-  }
+  ]
 }

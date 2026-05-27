@@ -1,5 +1,4 @@
 {
-  "file": "6b6394ab03f0b02020347c9d38e31d28_textin.json",
   "total_pages": 2,
   "stats": {
     "title": 9,
@@ -712,9 +711,5 @@
       "type": "footer",
       "content": "-2-"
     }
-  ],
-  "metadata": {
-    "document_title": "宁夏政府网上超市供货合同",
-    "contract_no": "20190424DD0012W"
-  }
+  ]
 }

@@ -1,5 +1,4 @@
 {
-  "file": "36c283bbb1a64af3e7f6c1889367b338_textin.json",
   "total_pages": 8,
   "stats": {
     "text": 45,
@@ -1526,10 +1525,5 @@
       "type": "footer",
       "content": "5"
     }
-  ],
-  "metadata": {
-    "document_title": "技术服务合同",
-    "contract_no": "NJDT-HJ-(2)2019-290",
-    "amount": 408000.0
-  }
+  ]
 }

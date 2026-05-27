@@ -1,5 +1,4 @@
 {
-  "file": "83ba3e20f410083dbfabb1c829cd17a1_textin.json",
   "total_pages": 13,
   "stats": {
     "title": 25,
@@ -3821,12 +3820,5 @@
       "type": "footer",
       "content": "12"
     }
-  ],
-  "metadata": {
-    "document_title": "合同书",
-    "party_a": "宁夏专用通信局** **电话：0951-6366507** **",
-    "party_b": "宁夏计算机软件与技术服务有限公司** **电话：0951-6025693** 甲方通过竞争性磋商投标活动，经评标委员会认真评审并经采购机关确认，决定将本项目采购合同授予乙方。为进一步明确双方的责任，确",
-    "contract_no": "NXJF-XTJC-TXZYJ-20191129",
-    "amount": 520000.0
-  }
+  ]
 }

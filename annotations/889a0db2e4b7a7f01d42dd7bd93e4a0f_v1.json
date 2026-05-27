@@ -1,5 +1,4 @@
 {
-  "file": "889a0db2e4b7a7f01d42dd7bd93e4a0f_textin.json",
   "total_pages": 2,
   "stats": {
     "title": 9,
@@ -617,9 +616,5 @@
       "type": "footer",
       "content": "2"
     }
-  ],
-  "metadata": {
-    "document_title": "设备采购（货物）合同",
-    "contract_no": "20180110DD0007W"
-  }
+  ]
 }

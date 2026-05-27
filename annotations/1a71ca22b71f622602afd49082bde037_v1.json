@@ -1,5 +1,4 @@
 {
-  "file": "1a71ca22b71f622602afd49082bde037_textin.json",
   "total_pages": 10,
   "stats": {
     "title": 21,
@@ -1794,9 +1793,5 @@
       "type": "footer",
       "content": "9"
     }
-  ],
-  "metadata": {
-    "document_title": "建设项目合同",
-    "amount": 498000.0
-  }
+  ]
 }

@@ -1,5 +1,4 @@
 {
-  "file": "32304db6ae6256981aac3e277f9ddc02_textin.json",
   "total_pages": 3,
   "stats": {
     "header": 7,
@@ -975,12 +974,5 @@
       "type": "text",
       "content": "签字日期： 2019.11.1"
     }
-  ],
-  "metadata": {
-    "document_title": "宁夏医科大学文献资源招标（采购）合同",
-    "party_a": "宁夏公司专用",
-    "party_b": "北京人云书店有限公司 法人代表： 法人代表： 主管校领导： 刘宏 代理人： 陆泽彬 部门负责人： 王零芳 经办人： 签字日期：2019.11.1 签字日期： 2019.11.1",
-    "contract_no": "2019NCZ001726W",
-    "amount": 642300.0
-  }
+  ]
 }

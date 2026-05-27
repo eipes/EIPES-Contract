@@ -1,5 +1,4 @@
 {
-  "file": "596fd6d7ba1da8f833ffbd909cadb637_textin.json",
   "total_pages": 2,
   "stats": {
     "header": 1,
@@ -810,10 +809,5 @@
       "type": "footer",
       "content": "2"
     }
-  ],
-  "metadata": {
-    "document_title": "十二、担保方式：如乙方提供担保或抵押，另立合同担保书或抵押合同书，作为本合同附件。",
-    "contract_no": "WC-NTDZ(2019）第020号",
-    "amount": 27996.0
-  }
+  ]
 }

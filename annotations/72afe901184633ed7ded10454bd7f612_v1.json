@@ -1,5 +1,4 @@
 {
-  "file": "72afe901184633ed7ded10454bd7f612_textin.json",
   "total_pages": 4,
   "stats": {
     "title": 12,
@@ -1026,11 +1025,5 @@
       "type": "footer",
       "content": "第4页共4页"
     }
-  ],
-  "metadata": {
-    "document_title": "设备采购合同",
-    "party_a": "宁夏大学（生命科学学院）",
-    "party_b": "宁夏光驰科技有限公司 地址： 地址：宁夏银川市兴庆区北京东路清和园4号楼208号营业房 电话： 电话：18695293366 税号： 税号：91640100MA770B1963 开户行： 开户行：招商",
-    "contract_no": "GC20191028"
-  }
+  ]
 }

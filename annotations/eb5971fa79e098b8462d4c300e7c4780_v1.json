@@ -1,5 +1,4 @@
 {
-  "file": "eb5971fa79e098b8462d4c300e7c4780_textin.json",
   "total_pages": 2,
   "stats": {
     "text": 37,
@@ -941,11 +940,5 @@
       "type": "text",
       "content": "日 期："
     }
-  ],
-  "metadata": {
-    "document_title": "宁夏政府采购网上超市供货合同",
-    "party_a": "宁夏回族自治区科学技术厅办公室",
-    "party_b": "银川华瑞翔电子科技有限公司 代表签字： 代表签字： 联系地址： 联系地址：银川市文化东街227号 联系电话： 联系电话： 日期： 日 期：",
-    "contract_no": "20191025DD0004W"
-  }
+  ]
 }

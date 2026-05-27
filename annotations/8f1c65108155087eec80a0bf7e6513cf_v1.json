@@ -1,5 +1,4 @@
 {
-  "file": "8f1c65108155087eec80a0bf7e6513cf_textin.json",
   "total_pages": 6,
   "stats": {
     "text": 34,
@@ -1071,12 +1070,5 @@
       "type": "footer",
       "content": "4"
     }
-  ],
-  "metadata": {
-    "document_title": "数字线划图（DLG）生产合同",
-    "party_a": "宁夏回族自治区测绘地理信息院",
-    "party_b": "贵州天地通科技有限公司 二零一九年月日 依据《中华人民共和国合同法》《中华人民共和国测绘法》《宁夏1:2000基础地理信息数据库及“多库合一”项目数字线划图（DLG）生产服务协议书》及《宁夏1:200",
-    "contract_no": "JCYDLG-",
-    "amount": 184300.0
-  }
+  ]
 }

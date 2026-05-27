@@ -1,5 +1,4 @@
 {
-  "file": "39efd4bb1d6d54604147f6b1d3b4f377_textin.json",
   "total_pages": 8,
   "stats": {
     "header": 13,
@@ -2001,13 +2000,5 @@
       },
       "html": "<table border=\"1\" ><tr>\n<td>序号</td>\n<td>名称</td>\n<td>型号和规格</td>\n<td>原产地和制造商</td>\n<td>数量</td>\n<td>单价（元）</td>\n<td>合计（元）</td>\n</tr><tr>\n<td rowspan=\"2\">1</td>\n<td rowspan=\"2\">学生云终端</td>\n<td rowspan=\"2\">上海凌极／LB7</td>\n<td>上海市</td>\n<td rowspan=\"2\">264 台</td>\n<td rowspan=\"2\">4250</td>\n<td rowspan=\"2\">1122000</td>\n</tr><tr>\n<td>上海凌极信息技术有限公司</td>\n</tr><tr>\n<td rowspan=\"2\">2</td>\n<td rowspan=\"2\">教师教学终端</td>\n<td rowspan=\"2\">联想启天／M410</td>\n<td>北京市</td>\n<td rowspan=\"2\">6 台</td>\n<td rowspan=\"2\">6000</td>\n<td rowspan=\"2\">36000</td>\n</tr><tr>\n<td>联想北京信息技术有限公司</td>\n</tr><tr>\n<td colspan=\"7\">合计： 大写：壹佰壹拾伍万捌仟元整； 小写：¥1158000.00元</td>\n</tr></table>"
     }
-  ],
-  "metadata": {
-    "document_title": "宁夏医科大学货物招标（采购）合同",
-    "party_a": "宁夏医科大学 司 法定代表人： 法定代表人： 签约代表：李熙 主管校领导： 何2 采购部门负责人：414盒 使用部门负责人：郝丽 开户银行及账号：招商银行股份有限公司 开户银行及账号：银川市农行 医学",
-    "party_b": "宁夏思旺达科贸有限公 甲方：宁夏医科大学 司 法定代表人： 法定代表人： 签约代表：李熙 主管校领导： 何2 采购部门负责人：414盒 使用部门负责人：郝丽 开户银行及账号：招商银行股份有限公司 开户",
-    "contract_no": "NY2019032",
-    "sign_date": "2019年10月23日",
-    "amount": 1158000.0
-  }
+  ]
 }

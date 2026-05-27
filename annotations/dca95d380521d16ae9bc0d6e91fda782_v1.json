@@ -1,5 +1,4 @@
 {
-  "file": "dca95d380521d16ae9bc0d6e91fda782_textin.json",
   "total_pages": 4,
   "stats": {
     "title": 13,
@@ -1018,9 +1017,5 @@
       "type": "footer",
       "content": "第4页共4页"
     }
-  ],
-  "metadata": {
-    "document_title": "设备采购合同",
-    "contract_no": "GC20190912**"
-  }
+  ]
 }
